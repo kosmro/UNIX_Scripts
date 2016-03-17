@@ -2,7 +2,7 @@
 UNIX scripts for setup and process automation.
 
 
-# ltsp-setup.sh
+##ltsp-setup.sh
 This script is used to setup LTSP on Ubuntu Server using ProxyDHCP (as described
 in the Ubuntu documentation), within a network preconfigured with DHCP servers.
 This script allows for the setup of i386 and amd64 architechture, Unity, Gnome,
