@@ -19,4 +19,12 @@ At the moment, this script has not yet been fully tested, but will be gradually 
 and updated as testing is undertaken over the next few weeks.
 
 
+##openvpn-install.sh
+This script is designed to install and setup OpenVPN on any Debian/CentOS based system.
+It will also allow you to manage user certificates.
+NOTE: I did not write this script. I have been using is for a few years, but can not
+remember where I found it (Raspberry Pi Forums I think). This script is courtasy of the
+original crator.
+
+
 Feel free to make suggestions and comment on any errors found.
